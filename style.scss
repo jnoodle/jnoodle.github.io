@@ -477,6 +477,22 @@ footer {
   }
 }
 
+.color1 {
+  color:#1694ca;
+}
+.color2 {
+  color:#87af0f;
+}
+.color3 {
+  color:#9a28e2;
+}
+.color4 {
+  color:#e24728;
+}
+.color5 {
+  color:#999;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

@@ -12,6 +12,8 @@ permalink: /about/
 
 [非技术文章](http://xingdaochichi.com/)
 
+[MDN翻译](https://developer.mozilla.org/zh-CN/profiles/feeldesignstudio.com)
+
 请关注我的微信公众号：
 
 ![@feeldesignstudio](/images/qrcode_344.jpg)
